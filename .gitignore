@@ -1,0 +1,13 @@
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Temporary & Cache
+*.log
+*.tmp
+__pycache__/
+*.py[cod]
+.env
+.venv
+node_modules/
